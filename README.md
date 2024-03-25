@@ -4,12 +4,12 @@
 ___
 스크립트에서 cartoonize_frame 함수를 수정하여 카툰 효과를 사용자 정의할 수 있습니다. 이 함수는 비디오의 각 프레임에 카툰 효과를 적용합니다.
 
-___
-**input_video_path** : 입력 비디오 파일의 경로입니다.
-___
-**output_video_path** : 출력된 카툰화된 비디오 파일을 저장할 경로입니다.
-__
-**입력 비디오를 카툰화합니다**
+Example:
+- **input_video_path** : 입력 비디오 파일의 경로입니다.
+
+- **output_video_path** : 출력된 카툰화된 비디오 파일을 저장할 경로입니다.
+
+- **입력 비디오를 카툰화합니다**
 cartoonize_video(input_video_path, output_video_path, cartoonize_frame)
 
 
