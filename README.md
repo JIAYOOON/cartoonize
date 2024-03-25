@@ -1,5 +1,9 @@
 # cartoonize_video
 
-https://github.com/JIAYOOON/cartoonize/assets/113532368/fbb56a97-f232-4a58-abde-3731318c1926
+
+
+<img width="80%" src="https://github.com/JIAYOOON/cartoonize/assets/113532368/08ea6b10-02ca-4efe-9deb-bd9ecf0344e6.gif"/>
 [input_video]
 
+<img width="80%" src="https://github.com/JIAYOOON/cartoonize/assets/113532368/d4d7f5ec-a00f-40de-bc80-90fbe1422a84.gif"/>
+[cartoonized_video]
