@@ -19,3 +19,7 @@ cartoonize_video(input_video_path, output_video_path, cartoonize_frame)
 <img width="50%" src="https://github.com/JIAYOOON/cartoonize/assets/113532368/d4d7f5ec-a00f-40de-bc80-90fbe1422a84.gif"/>
 
 ___
+- 만화 느낌이 잘 표현되지 않는 경우 :
+<img width="50%" src="https://github.com/JIAYOOON/cartoonize/assets/113532368/840a8a3e-82ff-4354-afe0-59cf1a41a122.gif"/>
+인간의 얼굴이 가깝거나, 조명이 없어 빛과 그림자의 대비가 부족할 경우, 만화 스타일로 변환해도 원하는 만화 같은 느낌을 얻기 어려울 수 있습니다.
+___
