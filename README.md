@@ -9,7 +9,7 @@ Example:
 
 - **output_video_path** : 출력된 카툰화된 비디오 파일을 저장할 경로입니다.
 
-- **입력 비디오를 카툰화합니다**
+- **입력 비디오를 카툰화합니다** :
 cartoonize_video(input_video_path, output_video_path, cartoonize_frame)
 
 
